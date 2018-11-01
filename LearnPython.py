@@ -17,3 +17,6 @@ for i in range(len(str)):
 for i in range(20):
 	sum +=1
 print("Sum:", sum)
+
+for i in range(1, 20):
+	print(i/(i-1))
