@@ -13,3 +13,7 @@ print(str[2:5])
 
 for i in range(len(str)):
 	print(str[i])
+
+for i in range(20):
+	sum +=1
+print("Sum:", sum)
