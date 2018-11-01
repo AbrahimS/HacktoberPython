@@ -6,3 +6,7 @@ num = 10
 
 for i in num:
 	print(i)
+
+str = "Hello World!"
+
+print(str[2:5])
