@@ -10,3 +10,6 @@ for i in num:
 str = "Hello World!"
 
 print(str[2:5])
+
+for i in range(len(str)):
+	print(str[i])
